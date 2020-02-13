@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521550451102",
+    "firebase_url": "https://breathclean-36faf.firebaseio.com",
+    "project_id": "breathclean-36faf",
+    "storage_bucket": "breathclean-36faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521550451102:android:5c83188e56ae78808e068f",
+        "android_client_info": {
+          "package_name": "lab4.app.breatheclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521550451102-j3r7er7rdqahoani9h86m0qgld0solt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lab4.app.breatheclean",
+            "certificate_hash": "703c789edad70d9bfcd0623b9b3665332a970647"
+          }
+        },
+        {
+          "client_id": "521550451102-pq06ep8732aqmqedg2dkact3rgge7mau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv2sHimY10Djz0mnNIMxhCPfer2MT9Zr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521550451102-pq06ep8732aqmqedg2dkact3rgge7mau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
